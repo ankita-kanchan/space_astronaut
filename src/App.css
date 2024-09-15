@@ -1,0 +1,10 @@
+/* In your App.css or main CSS file */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
